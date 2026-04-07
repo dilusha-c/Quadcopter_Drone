@@ -55,5 +55,5 @@ The RC receiver provides input signals which are processed and translated into P
 
 ---
 
-## 🎥 Demo (Optional)
-Add a video link if available:
+## 🎥 Demo
+https://res.cloudinary.com/dgthdmczs/video/upload/v1775561027/drone_video.mp4
