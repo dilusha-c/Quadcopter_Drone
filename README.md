@@ -50,8 +50,8 @@ The RC receiver provides input signals which are processed and translated into P
 
 > Add your images inside a folder named `images/`
 
-![Drone Build](Images/drone1.jpg)
-![Testing Phase](Images/drone4.jpg)
+![Drone Build](Images/drone1.jpeg)
+![Testing Phase](Images/drone4.png)
 
 ---
 
